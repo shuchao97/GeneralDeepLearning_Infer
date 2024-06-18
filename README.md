@@ -24,7 +24,7 @@ GeneralDeepLearing_Infer/
 |  
 ├── Modules/                        // 各种推理库文件夹  
 │   ├── GeneralLibTorch_Infer/      // LibTorch推理库 待开发  
-│   ├── GeneralOnnxRuntime_Infer/   // OnnxRuntime推理库
+│   ├── GeneralOnnxRuntime_Infer/   // OnnxRuntime推理库  
 │   └── GeneralTensorRT_Infer/      // TensorRT推理库 待开发  
 |  
 ├── Release/                        // 编译输出文件夹  
